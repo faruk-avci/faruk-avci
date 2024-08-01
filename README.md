@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋I'm Faruk</h1>
 <h3 align="left">A passionate coder student from Türkiye</h3>
 
-- 💪 I’m currently working at **Özü Rover CS Division**
-
-- 🌱 I’m currently learning **Rover Components**
-
 - 📫 How to reach me **faruk.avci@ozu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,4 +19,4 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omeravci99&show_icons=true&theme=dark&title_color=ffffff&text_color=f5f5f5&bg_color=1c0548&hide_border=true&locale=en&layout=compact" alt="omeravci99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faruk-avci&show_icons=true&theme=dark&title_color=ffffff&text_color=f5f5f5&bg_color=1c0548&hide_border=true&locale=en&layout=compact" alt="faruk-avci" /></p>
